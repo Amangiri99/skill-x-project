@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>APP on Skill-X Project</title>
+    <link>https://amangiri99.github.io/skill-x-project/about/</link>
+    <description>Recent content in APP on Skill-X Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://amangiri99.github.io/skill-x-project/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
